@@ -1,4 +1,4 @@
-console.log("Ola ke ase!");
+console.log("Adios!");
 let x = 2;
 let y = 4;
 console.log(x*y);
